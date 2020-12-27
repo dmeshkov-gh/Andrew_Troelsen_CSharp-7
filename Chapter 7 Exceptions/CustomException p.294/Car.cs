@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace SimpleException_p._284
+namespace CustomException_p._294
 {
     class Car
     {
@@ -35,13 +35,7 @@ namespace SimpleException_p._284
                 {
                     CurrentSpeed = 0;
                     _carIsDead = true;
-                    Exception ex = new Exception($"{PetName} has been overheated!")
-                    {
-                        HelpLink = "https://www.carsrus.com"
-                    };
-
-                    ex.Data.Add("TimeStamp", $"The car exploded at {DateTime.Now}");
-                    ex.Data.Add("Cause", "You have a lead foot");
+                    CarIsDeadException ex = new CarIsDeadException($"{PetName} has overheated!", "You have a lead foot", DateTime.Now);
                     throw ex;
                 }
                 else
