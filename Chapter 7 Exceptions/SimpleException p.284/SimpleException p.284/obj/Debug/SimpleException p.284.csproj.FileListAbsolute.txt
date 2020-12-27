@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\bin\Debug\SimpleException p.284.exe.config
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\bin\Debug\SimpleException p.284.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\bin\Debug\SimpleException p.284.pdb
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\obj\Debug\SimpleException p.284.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\obj\Debug\SimpleException p.284.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\obj\Debug\SimpleException p.284.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Троелсен\Chapter 7 Exceptions\SimpleException p.284\SimpleException p.284\obj\Debug\SimpleException p.284.pdb
