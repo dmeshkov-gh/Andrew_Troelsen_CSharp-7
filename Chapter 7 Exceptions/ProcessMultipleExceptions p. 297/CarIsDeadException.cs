@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CustomException_p._294
+namespace ProcessMultipleExceptions_p._297
 {
-    //[Serializable]
     public class CarIsDeadException : ApplicationException
     {
         private string messageDetails = String.Empty;
@@ -18,13 +17,5 @@ namespace CustomException_p._294
             CauseOfError = cause;
             ErrorTimeStamp = time;
         }
-
-        //Специальные исключения
-
-        //public CarIsDeadException() { }
-        //public CarIsDeadException(string message) : base(message) { }
-        //public CarIsDeadException(string message, System.Exception inner) : base(message, inner) { }
-        //protected CarIsDeadException(System.Runtime.Serialization.SerializationInfo info,
-        //    System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
     }
 }
